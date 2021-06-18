@@ -1,0 +1,14 @@
+{
+  "name": "caribbeanchic",
+  "version": "1.0.0",
+  "description": "caribbeanchic theme",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "author": "Cristian Velasquez",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^6.0.0"
+  }
+}
